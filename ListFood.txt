@@ -1,0 +1,4 @@
+|      A123|             banh mi|        1.0|                cake|     Cooler compartment 1|          23/12/2021||      A156|            thit heo|        1.0|               fresh|      Freezer compartment|          01/01/2023||      N199|             banh bo|        1.0|                cake|     Cooler compartment 1|          09/01/2023||      N123|            xuc xich|        0.5|               fresh|      Freezer compartment|          23/10/2023|
+
+
+
